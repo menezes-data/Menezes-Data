@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi! I'm Matheus De Menezes
 
-<!--
-**menezes-data/Menezes-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Data Analyst**  
+🌍 Passionate about data, visualization, and traveling the world  
+🇬🇧 Advanced English  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🧠 About Me
+I am a Data Analyst focused on turning data into **clear and actionable insights**.  
+I enjoy working with data analysis, visualization, and data organization to support decision-making.
+
+---
+
+## 🛠 Technologies & Tools
+- 📊 **Power BI**
+- 🧮 **SQL**
+- 🐍 **Python**
+- 📈 **Excel**
+- 🎨 **Figma** (dashboard design & prototyping)
+- 🌍 **English**
+- 🌍 **Portuguese**
+- 🌍 **Spanish**
+
+---
+
+## 📂 What You'll Find Here
+- 📊 **Data Analysis** projects  
+- 📈 **Power BI** dashboards  
+- 🧠 **SQL & Python** studies  
+- 📁 Data cleaning and transformation  
+
+---
+
+## 📫 Let's Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/menezes-data/
+- 📧 Email: menezes.data@gmail.com
+
+---
+
+✨ *Data tells stories — I help translate them into insights.*
 -->
