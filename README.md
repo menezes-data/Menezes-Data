@@ -2,7 +2,6 @@
 
 📊 **Data Analyst**  
 🌍 Passionate about data, visualization, and traveling the world  
-🇬🇧 Advanced English  
 
 ---
 
